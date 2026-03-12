@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+openai
+requests
+python-docx
+reportlab
+tiktoken
+numpy
+deepdiff
+python-dotenv
+httpx
