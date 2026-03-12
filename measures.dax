@@ -1,3 +1,4 @@
 Avg order value = DIVIDE([Total Revenue], [Total Orders])
 Total Orders = COUNTROWS(Sales)
 Total Revenue = SUM(Sales[Sales Amount]) 
+Average Unit Price = AVERAGE(Sales[Unit Price])
